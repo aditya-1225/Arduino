@@ -1,0 +1,9 @@
+/kbrd
+/LED_STRIP_11
+/SimpleWebServerWiFi
+/WiFiWebServer_BMP280_True
+/WiFiWebServer_MPU6050
+/GPS_Logger/altitude_data.csv
+/GPS_Logger/Data_parser.py
+/GPS_Logger/lat_lon_data.csv
+/GPS_Logger/TEST1.TXT
